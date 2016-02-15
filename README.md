@@ -8,9 +8,7 @@ a Docker based builder) or you can build using an online build tool
 (http://nodemcu-build.com) which allows you to online configure and build
 your firmare.
 
-<img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_top.jpg" height="200"> <img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_bottom.jpg" height="200">
-
-NodeMCU brings many interesting modules you can use out of the box in your
+NodeMCU firmware brings many interesting modules you can use out of the box in your
 Lua scripts, e.g.:
   * csjon
   * gpio
@@ -22,6 +20,10 @@ Lua scripts, e.g.:
   * ws2812 (Pixel LED)
   * u8g (LCD and OLED lib)
   * ... and many more
+
+## NodeMCU development Kit
+<img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_top.jpg" height="200"> <img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_bottom.jpg" height="200">
+
 
 ## Scripts 
 ### mqtt client
