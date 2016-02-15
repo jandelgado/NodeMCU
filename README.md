@@ -28,6 +28,7 @@ Lua scripts, e.g.:
 
 ## NodeMCU development Kit
 The development board hosts (from left to right) an ESP8266 SoC, an voltage regulator (AMS1117) and an CP2102 usb-to-uart bridge. 
+
 <img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_top.jpg" height="200"> <img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_bottom.jpg" height="200">
 
 
