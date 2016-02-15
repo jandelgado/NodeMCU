@@ -13,9 +13,9 @@ your firmare.
 
 NodeMCU firmware brings many interesting modules you can use out of the box in your
 Lua scripts, e.g.:
-  * csjon
   * gpio
   * http
+  * csjon
   * mqtt
   * i2c
   * spi
