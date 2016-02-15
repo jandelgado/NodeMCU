@@ -1,7 +1,9 @@
 # NodeMCU
 NodeMCU is a [Lua](http://www.lua.org) enabled firmware for Wi-Fi SoC ESP8266, ideal for IoT 
-applications. You can directly write your applications in Lua using a serial connection to the SoC. 
-No compiler or IDE is needed.
+applications. You can directly write your applications in Lua using a serial connection. 
+No compiler or IDE is needed:
+
+<img src="https://github.com/jandelgado/NodeMCU/blob/master/images/console_1.png" width="500">
 
 The ESP8266 is a small, cheap (<3 EUR) Wi-Fi enabled micro controller featuring 802.11 b/g/n Wi-Fi, 
 UART, I2C, SPI, GPIO an an 10 bit ADC. 
