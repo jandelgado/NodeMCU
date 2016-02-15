@@ -8,7 +8,7 @@ a Docker based builder) or you can build using an online build tool
 (http://nodemcu-build.com) which allows you to online configure and build
 your firmare.
 
-<img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_top.jpg" width="400"> <img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_bottom.jpg" width="400">
+<img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_top.jpg" height="200"> <img src="https://github.com/jandelgado/NodeMCU/blob/master/images/nodemcu_bottom.jpg" height="200">
 
 NodeMCU brings many interesting modules you can use out of the box in your
 Lua scripts, e.g.:
