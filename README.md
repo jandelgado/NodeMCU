@@ -58,5 +58,6 @@ and subscribed, the script will print out all changes published to the topic.
   * NodeMCU: http://nodemcu.com
   * NodeMCU Lua firmware: https://github.com/nodemcu/nodemcu-firmware and [API
     documentation](http://nodemcu.readthedocs.org/en/dev/)
-  * Flashing tool: https://github.com/nodemcu/nodemcu-flasher
+  * Flashing tool (Windows): https://github.com/nodemcu/nodemcu-flasher
   * Custom firmware build service: http://nodemcu-build.com/
+  * Python based cli-uploader: https://github.com/kmpm/nodemcu-uploader
