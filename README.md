@@ -61,3 +61,5 @@ and subscribed, the script will print out all changes published to the topic.
   * Flashing tool (Windows): https://github.com/nodemcu/nodemcu-flasher
   * Custom firmware build service: http://nodemcu-build.com/
   * Python based cli-uploader: https://github.com/themadinventor/esptool (this one worked best for me)
+
+Have a look at the [wiki](https://github.com/jandelgado/NodeMCU/wiki) for examples.
